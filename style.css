@@ -51,3 +51,7 @@ div img{
     width: 40px;
     height: 40px;
 }
+
+.unchecked:hover{
+    display: none;
+}
